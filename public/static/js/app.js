@@ -49,7 +49,7 @@ app.controller('ProxyController', function($scope, $http, $cookies) {
                 $scope.loading = false;
             }
         }, function (resp) {
-            Materialize.toast(resp.data.message || 'porcodio.', 4000);
+            Materialize.toast(resp.data.message || 'An error occurred during processing.', 4000);
             $scope.loading = false;
         });
     };
