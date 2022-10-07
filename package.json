@@ -15,7 +15,7 @@
         "log": "^6.0.0",
         "log-node": "^7.0.0",
         "yt-search": "^2.10.3",
-        "ytdl-core": "^4.8.3"
+        "ytdl-core": "^4.11.2"
     },
     "repository": {
         "type": "git",
