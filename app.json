@@ -17,7 +17,7 @@
   ],
   "env": {
     "YOUTUBE_API_KEY": {
-      "description": "Provide your own YouTube API key here! This application will not work without a valid key."
+      "description": "AIzaSyC6cRnb7MqeCaxKkN05YJBfLMynNSvOg8g"
     }
   }
 }
